@@ -7,6 +7,8 @@ A native macOS application for creating REAPER-compatible toolbar and track icon
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-4.0-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![REAPER Icon Creator Screenshot](docs/screenshots/app-screenshot.png)
+
 ## Features
 
 - **Two Generation Modes**

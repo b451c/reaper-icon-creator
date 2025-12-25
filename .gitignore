@@ -54,3 +54,4 @@ TestImages/
 
 # Claude
 .claude/
+*.zip
