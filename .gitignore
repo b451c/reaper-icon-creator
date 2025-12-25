@@ -1,0 +1,56 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+xcuserdata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Build artifacts
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Archives
+*.xcarchive
+
+# Temporary files
+*.tmp
+*.temp
+
+# App bundle (built app - will be in releases)
+*.app/
+!ReaperIconCreator.xcodeproj/
+
+# Test files
+TestImages/
+
+# Claude
+.claude/
